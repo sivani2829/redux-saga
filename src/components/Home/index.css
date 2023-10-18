@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+}
+.image-size{
+    width:300px;
+    height:180px;
+}
+.main-product{
+    display: flex;
+    flex-wrap:wrap;
+}
+.main-container{
+    width:100vw;
+
+}

@@ -1,0 +1,45 @@
+
+.header{
+    height:100px;
+
+}
+.cart{
+    float:right;
+    margin:30px;
+    position:relative;
+    background-image: transparent;
+}
+.cart img{
+    width:40px;
+   
+}
+.cart span{
+    background-color: yellowgreen;
+    width: 20px;
+    height:20px;
+    border-radius: 100%;
+    position: absolute;
+    right:0px;
+    top:-10px;
+    color:black;
+    font-weight: 700;
+
+}
+.logo{
+    float:left;
+    padding:30px;
+    margin:10px;
+    color:black;
+}
+.input-text{
+    float:left;
+    width:60%;
+    padding:25px;
+}
+.input-text input{
+    width:70%;
+    height:30px;
+    padding-left:30px;
+    margin-top:20px;
+    margin-left:90px;
+}
